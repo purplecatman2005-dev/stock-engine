@@ -1,0 +1,6 @@
+numpy
+pandas
+lightgbm
+yfinance
+requests
+websocket-client

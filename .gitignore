@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.exe
+*.o
+*.log
+*.bak
+.venv/
+*.csv
+captures/
+*.bin
